@@ -1,0 +1,63 @@
+#perfil{
+	margin-left: 100px; 
+	margin-top: 100px;
+	margin-right: 100px; 
+	padding-bottom: 40px;
+}
+
+#dadosUsuario{
+	margin-bottom: 40px;
+}
+
+#titulo{
+	text-align: left; 
+}
+
+#item{
+	margin-top: 20px;
+}
+
+#item input{
+	color: #540444;
+}
+
+#barraTitulo{
+	border-top: 3px;
+	border-style:  solid;
+	border-color: #fff;
+	width: 394px;
+} 
+
+#caixaDeTexto{
+	color: #540444;
+}
+
+#servicosUser{ 
+	margin-top: 40px;
+}
+
+#separador div{
+	min-width: 420px;
+	border-bottom: 1px solid #fff;
+}
+
+#servico{
+	display: flex;
+	padding: 20px;
+	min-width: 400px;
+}
+
+#tituloServico{
+	margin-left: 10px;
+}
+
+#botaoCancelar{
+	background-color: #b21092;
+	color: white;
+	border-style: none;
+	border-radius: 5px;
+}
+
+#botaoCancelar:hover{
+	background-color: #82116b;
+}

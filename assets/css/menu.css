@@ -1,0 +1,112 @@
+html{
+	height: 100%;
+}
+body{
+	min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    /*background-image: linear-gradient(#a80788, #540444);*/
+    background-color:  #6e0759;
+}
+
+#principal{
+	margin-right: 60px; 
+	margin-left: 60px; 
+	margin-top: 60px; 
+	background-color: #1d1d1d;
+	min-width: 600px;
+	flex: 1;
+}
+
+#botaoBusca{
+	background-color: #b21092;
+	 color: white
+}
+
+#botaoBusca2{
+	background-color: #d11313;
+	 color: white;
+}
+
+#botaoBusca3{
+	background-color: #82116b;
+	 color: white
+}
+
+
+#botaoBusca2 a{
+	background-color: white;
+	color: #b21092;
+	text-decoration: none;
+}
+
+#botaoBusca:hover{
+	background-color: #82116b
+}
+
+#botaoBusca2:hover{
+	background-color: #a60707
+}
+
+#botaoBusca3:hover{
+	background-color: #b21092
+}
+
+.botao2{
+	margin-left: 25px
+}
+
+.msg{
+	align-items: center; 
+	display: flex; 
+	flex-direction: row; 
+	flex-wrap: wrap; 
+	justify-content: center;  
+	margin-top: 40px
+}
+
+#dropdownItem{
+	display: flex;
+	border-top: solid #737373 1px;
+	border-bottom: solid #737373 1px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: auto;
+}
+
+#dropdownItem:hover{
+	background-color: #d1d1d1;
+}
+
+#dropdownItem a{
+	color: #db1cb5;
+	margin-left: -10px;
+	padding-top: 17px
+}
+
+#dropdownItem a:hover{
+	background-color: #d1d1d1;
+	color: #ab168d;
+}
+
+#dropdownItem p{
+	margin-left: 15px;
+	font-size: 12px;
+}
+
+#dropdownItem button{
+	margin: 10px;
+}
+#dropdown{
+	width: 250px;
+}
+
+#dropdownItem span{
+	color: #db1cb5;
+}
+#dropdownItem span:hover{
+	background-color: #d1d1d1;
+	color: #ab168d;
+}

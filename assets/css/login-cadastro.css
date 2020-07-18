@@ -1,0 +1,43 @@
+#login .container #login-row #login-column #login-box {
+  margin-top: 50px;
+  max-width: 500px;
+  min-width: 500px;
+  height: 300px;
+  border: 1px solid #9C9C9C;
+  border-radius: 5px;
+  background-color: #151515;
+}
+
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+
+#cadastro .container #cadastro-row #cadastro-column #cadastro-box {
+  margin-top: 50px;
+  max-width: 500px;
+  min-width: 500px;
+  height: 440px;
+  border: 1px solid #9C9C9C;
+  border-radius: 5px;
+  background-color: #151515;
+}
+
+#cadastro .container #cadastro-row #cadastro-column #cadastro-box #cadastro-form {
+  padding: 20px;
+}
+#cadastro .container #cadastro-row #cadastro-column #cadastro-box #cadastro-form #register-link {
+  margin-top: -85px;
+}
+
+#logo-login{
+  margin-top: 70px;
+  width: 300px;
+  height: 75px;
+}
+
+.campos{
+  border-radius: 2px;
+}
